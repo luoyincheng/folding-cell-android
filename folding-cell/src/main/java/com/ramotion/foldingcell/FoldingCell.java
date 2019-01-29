@@ -34,7 +34,7 @@ public class FoldingCell extends RelativeLayout {
     private boolean mAnimationInProgress;
 
     // default values
-    private final int DEF_ANIMATION_DURATION = 1000;
+    private final int DEF_ANIMATION_DURATION = 3000;
     private final int DEF_BACK_SIDE_COLOR = Color.GRAY;
     private final int DEF_ADDITIONAL_FLIPS = 0;
     private final int DEF_CAMERA_HEIGHT = 30;
